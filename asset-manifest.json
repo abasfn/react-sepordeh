@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-sepordeh/static/css/main.840acf20.chunk.css",
+    "main.js": "/react-sepordeh/static/js/main.5d6d5a4f.chunk.js",
+    "main.js.map": "/react-sepordeh/static/js/main.5d6d5a4f.chunk.js.map",
+    "runtime-main.js": "/react-sepordeh/static/js/runtime-main.3fb326ae.js",
+    "runtime-main.js.map": "/react-sepordeh/static/js/runtime-main.3fb326ae.js.map",
+    "static/css/2.f7cd496a.chunk.css": "/react-sepordeh/static/css/2.f7cd496a.chunk.css",
+    "static/js/2.f12b3817.chunk.js": "/react-sepordeh/static/js/2.f12b3817.chunk.js",
+    "static/js/2.f12b3817.chunk.js.map": "/react-sepordeh/static/js/2.f12b3817.chunk.js.map",
+    "static/js/3.b6428576.chunk.js": "/react-sepordeh/static/js/3.b6428576.chunk.js",
+    "static/js/3.b6428576.chunk.js.map": "/react-sepordeh/static/js/3.b6428576.chunk.js.map",
+    "index.html": "/react-sepordeh/index.html",
+    "static/css/2.f7cd496a.chunk.css.map": "/react-sepordeh/static/css/2.f7cd496a.chunk.css.map",
+    "static/css/main.840acf20.chunk.css.map": "/react-sepordeh/static/css/main.840acf20.chunk.css.map",
+    "static/js/2.f12b3817.chunk.js.LICENSE.txt": "/react-sepordeh/static/js/2.f12b3817.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-sepordeh/static/media/IRANSansBold.cd9ebcd6.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fb326ae.js",
+    "static/css/2.f7cd496a.chunk.css",
+    "static/js/2.f12b3817.chunk.js",
+    "static/css/main.840acf20.chunk.css",
+    "static/js/main.5d6d5a4f.chunk.js"
+  ]
+}
